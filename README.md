@@ -93,13 +93,6 @@ Mount volumes to folders when drive letters run out.
 
 ---
 
-## 🎯 Final Thoughts
-This project was an incredible opportunity to apply what I’ve learned in real-world scenarios, from network configuration to server administration.
-
-Thanks again to **Eng. Mohamed Abosehly** for his continuous support and mentoring throughout this learning journey.
-
----
-
 ## 🗂️ File List Summary (Slides)
 - Slide 1–5: Introduction & Setup
 - Slide 6–11: Group Policy Examples
