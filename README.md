@@ -1,4 +1,4 @@
-# MCSA Course Practical Summary  
+# MCSA Project 
 **Created by:** Eng. Mahmoud Hamed  
 **Supervised by:** Eng. Mohamed Abosehly  
 ---
@@ -12,8 +12,8 @@
 
 🖼️ Example Screenshots:  
 ![Enforcing Background](images/Change_Background.png)  
-![Disable USB](images/disable-usb.png)  
-![Control Panel Restriction](images/restrict-control-panel.png)
+![Disable USB](images/Disable_F_Disk.png)  
+![Control Panel Restriction](images/Control_Panel_Disaple.png)
 
 ---
 
@@ -22,8 +22,8 @@
 - Enabling access to the web server using domain names instead of IP.
 
 🖼️ Example Screenshots:  
-![DNS Zones](images/dns-zones.png)  
-![DNS Records](images/dns-records.png)
+![DNS Zones](images/DNS.png)  
+![DNS Records](images/Lan192_DNS_Server_option.png)
 
 ---
 
@@ -34,9 +34,10 @@
 - Backing up and restoring DHCP settings.
 
 🖼️ Example Screenshots:  
-![DHCP Scope](images/dhcp-scope.png)  
-![Failover Setup](images/dhcp-failover.png)  
-![DHCP Reservation](images/dhcp-reservation.png)
+![DHCP Scope](images/DC2_Server_option_DNS.png)  
+![Failover Setup](images/Fail_Over.png)  
+![DHCP Reservation](images/DC1_Replicate.png)
+![DHCP Reservation](images/DC1_Backup.png)
 
 ---
 
@@ -45,8 +46,9 @@
 - Configuring **FTP Server** for specific users.
 
 🖼️ Example Screenshots:  
-![IIS via IP](images/iis-ip-access.png)  
-![IIS via Hostname](images/iis-hostname-access.png)
+![IIS via IP](images/ip.png)  
+![IIS via Hostname](images/web1.png)
+![IIS via Hostname](images/web10.png)
 
 ---
 
@@ -74,7 +76,10 @@
 Mount volumes to folders when drive letters run out.
 
 🖼️ Example Screenshots:  
-![Mounting Volume](images/mount-folder.png)
+![Mounting Volume](images/Mount.png)
+![RAID0 Setup](images/Step_1_VHD.png)
+![RAID5 Setup](images/Step_2_VHD.png)
+![RAID5 Setup](images/Step_3_VHD.png)
 
 ---
 
@@ -82,9 +87,9 @@ Mount volumes to folders when drive letters run out.
 - Creating **RAID arrays** for redundancy.
 - Working with **Virtual Hard Disks (VHD)** for storage flexibility.
 
-🖼️ Example Screenshots:  
-![RAID Setup](images/raid-setup.png)  
-![VHD Example](images/vhd-setup.png)
+🖼️ Example Screenshots:    
+![VHD Example](images/RAID.png)
+![VHD Example](images/VHD_Image.png)
 
 ---
 
