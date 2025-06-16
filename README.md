@@ -1,6 +1,5 @@
 # MCSA Project 
-**Created by:** Eng. Mahmoud Hamed  
-**Supervised by:** Eng. Mohamed Abosehly  
+**Created by:** Eng. Mahmoud Hamed    
 ---
 ## 📚 Topics I Have Learned
 ### 1️⃣ Active Directory & Group Policy
